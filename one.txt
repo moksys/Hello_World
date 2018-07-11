@@ -1,5 +1,7 @@
 this is file
 001
-
+*---------------*
+added in my ftr
+-***************-
 this is fix to one in feature3
 end.
