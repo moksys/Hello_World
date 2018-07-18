@@ -5,3 +5,5 @@ added in my ftr
 -***************-
 this is fix to one in feature3
 end.
+
+this is new added in the one.
