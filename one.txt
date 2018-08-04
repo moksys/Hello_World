@@ -6,4 +6,7 @@ added in my ftr
 this is fix to one in feature3
 end.
 
-this is new added in the one.
+this is new added in the one. 01
+second line added in the one. 01
+
+on 2018-08-03.
